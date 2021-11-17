@@ -48,5 +48,5 @@ jobs:
       - job1
       - job2
     steps:
-      - name: Imprime 'Hello world'
-        run: echo Hello World Final
+      - name: Imprime 'Hello World'
+        run: echo Hello World!
